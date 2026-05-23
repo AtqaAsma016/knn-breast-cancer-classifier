@@ -1,6 +1,5 @@
 # KNN Breast Cancer Classifier
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue) ![sklearn](https://img.shields.io/badge/scikit--learn-KNN-orange)
 
 KNN classification on the Wisconsin Breast Cancer dataset. Covers feature scaling, hyperparameter tuning, clinical metric analysis, and feature reduction.
 
